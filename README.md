@@ -6,4 +6,4 @@ O software GenPPI é fruto de meu trabalho de mestrado em Ciências da Computaç
 
 Esse projeto de software é mantido pelo Professor Anderson. Por esse motivo, o GenPPI e todas as istruções necessárias para o seu uso, estão disponíveis para acesso público no GitHub do responsável pelo projeto: [santosardr/genppi](https://github.com/santosardr/genppi).
 
-No YouTubu há uma apresentação na qual falo sobre a proposta desse projeto, implementação e resultados que tivemos (para assistir, [clique aqui](https://www.youtube.com/watch?v=9VGUr6NGOmk&t=4s)). 
+Tenho uma apresentação no YouTube na qual falo sobre a proposta desse projeto, implementação e alguns resultados que tivemos (para assistir, [clique aqui](https://www.youtube.com/watch?v=9VGUr6NGOmk&t=4s)). 
