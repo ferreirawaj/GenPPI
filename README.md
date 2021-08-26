@@ -4,6 +4,6 @@ GenPPI é um software de bioinformática para prever interações de proteínas 
 
 O software GenPPI é fruto de meu trabalho de mestrado em Ciências da Computação (linha de pesquisa: Inteligência Artificial) desenvolvido na Univervidade Federal de Uberlândia/MG (campus Santa Mônica), e orientado pelo professor Anderson Rodrigues dos Santos do programa de pós-graduação da FACOM/UFU.
 
-O GenPPI e todas as instruções para uso encontram-se disponíveis para acesso público no GitHub do responsável pelo projeto: [GenPPI](/_santosardr_/_genppi_).  
+O GenPPI e todas as instruções para uso encontram-se disponíveis para acesso público no GitHub do responsável pelo projeto: [GenPPI](https://github.com/santosardr/genppi).  
 
 
